@@ -28,36 +28,36 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Juan Lopez",
+				Name: "Ramon Jimenez",
 				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Quote: "Las gallinas que entran por las que salen",
+				Age: 39,
+				Occupation: "Monitor de gimnasio",
+				Family: "Soltero",
+				Location: "Granada Capital",
+				Character: "Le gusta comer después de un buen entrenamiento",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 5 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Comer sano sin pasar hambre", "Conocer gente nueva que aporte cosas positivas"],
+				Frustrations: ["Peca de comer comida basura a veces", "Desde su última relacion no sale mucho de casa"],
+				Bio: "El deporte siempre ha sido su pasión. Estuvo en varios equipos de fútbol pero lo acabó dejando. Se mudó a otras ciudades buscando ser entrenador profesional pero no pasó las pruebas de acceso al colegio de entrenadores. Actualmente trabajo en un gimnasio como monitor.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
+					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "Movil", Value: 3 },
 					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
+					{ Name: "Publicidad Tradicional", Value: 1 },
 					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4}
 				]
 			},
 			{	
