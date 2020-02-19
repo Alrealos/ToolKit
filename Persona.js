@@ -72,7 +72,7 @@ angular.module("angular", [])
 				Name: "Rachel Brown",
 				Photo: "womanE.png",
 				Quote: "All you need is love. But a little chocolate now and then doesn't hurt.",
-				Age: 45,
+				Age: 59,
 				Occupation: "Ama de casa",
 				Family: "Casada con hijos y nietos",
 				Location: "Plymouth, Inglaterra",
