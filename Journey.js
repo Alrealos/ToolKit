@@ -31,7 +31,7 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Ramón Jimenez",
-                Photo: "man.png",
+                Photo: "deportista.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "quiere comer sano y conocer gente nueva",
