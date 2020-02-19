@@ -30,54 +30,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Juan Lopez",
+				Name: "Ramón Jimenez",
                 Photo: "man.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
+                goal1: "quiere comer sano y conocer gente nueva",
                 touch1: "agenda",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                con1: "ver que comida debe comer",
+                ima1: "cartoon-speaking.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
+                goal2: "decide buscar paginas donde poder comer con gente desconocida",
                 touch2: "ordenador",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                feel2: "1",
+                con2: "cree que solo va a haber sitios de comida 'basura'",
+                ima2: "cartoon-PCtyping.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                goal3: "encuentra eatwith y decide crearse una cuenta",
+                touch3: "ordenador",
+                feel3: "5",
+                con3: "ve que hay una comunidad grande con muchas personas",
+                ima3: "cartoon-PChappy.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "observa varios anfitriones que se adecuen a sus gustos culinarios",
                 touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                feel4: "3",
+                con4: "encuentra comida sana, pero no hay mucha gente que vaya a ir",
+                ima4: "cartoon-thinking.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "selecciona un anfitrion con muchas valoraciones positivas",
+                touch5: "móvil (google maps)",
+                feel5: "4",
+                con5: "mira en google maps la calle en la que vive el anfitrión y comprueba que está cerca de su casa",
+                ima5: "cartoon-phone.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Consigue reservar sitio para comer",
                 touch6: "ordenador",
                 feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                con6: "comerá sano pero no conocerá mucha gente nueva",
                 ima6: "cartoon-resting.png",
                 
 			},
