@@ -29,7 +29,7 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Ramon Jimenez",
-				Photo: "man.png",
+				Photo: "deportista.png",
 				Quote: "Las gallinas que entran por las que salen",
 				Age: 39,
 				Occupation: "Monitor de gimnasio",
