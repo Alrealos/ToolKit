@@ -88,55 +88,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Rachel Brown",
+                Photo: "womanE.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                goal1: "Tiene reservado un viaje a Valencia y quiere buscar actividades de ocio a relizar",
+                touch1: "ordenador",
+                feel1: "2",
+                con1: "Hay demasiadas actividades pero no encuentra ninguna que le guste",
+                ima1: "cartoon-writting.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                goal2: "Decide buscar por aquellas aficiones que le guste y encuentra Eatwith",
+                touch2: "ordenador",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Empieza a buscar actividades en el lugar del viaje",
+                ima2: "cartoon-PChappy.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
+                goal3: "Reserva para dar una clase para aprender a hacer la famosa paella valenciana",
                 touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                feel3: "5",
+                con3: "Esta emocionada por ir a dar la clase y cocinarla luego en casa",
+                ima3: "cartoon-PCSurprised.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
+                goal4: "Llega a su destino y se pone en contacto con la profesora de la clase",
+                touch4: "Móvil (llamada)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                con4: "Solo le manda una ubicación al movil, esta en una calle bastante escondida y es dificil de encontrar",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                goal5: "Llega tarde a la clase y la profesora no da la clase en ingles",
+                touch5: "Lugar de la clase",
+                feel5: "2",
+                con5: "Al llegar tarde a la clase y no estar familiarizada con el idioma no puede seguir la clase",
+                ima5: "cartoon-talking.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Ha terminado la clase pero dada a sus dificultades no ha aprender la como hacer la paella ",
+                touch6: "Movil (aplicación) ",
+                feel6: "1",
+                con6: "Tendrá que aprender como hacerla por ella misma y le pondrá una mala calificación a la actividad",
+                ima6: "cartoon-PCangry.png",
                 
                 
                 
